@@ -4,13 +4,13 @@ I am curating a software engineering toolbox that display as much as information
 
 ## 1. Package structure, Dependency, UML diagrams
 
-Three kinds of diagrams:
+Three kinds of diagrams (visualization):
 
 - Dependency graphs
 - UML Class diagrams
 - UML Package diagrams
 
-Three kinds of trees / intermediate representaions:
+Three kinds of trees / intermediate representaions (for parsing by human / LLM):
 
 1. DepGraph JSON (from pydeps)
 2. Plantmul script (from pylint)
