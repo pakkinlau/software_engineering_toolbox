@@ -1,15 +1,10 @@
 # software_engineering_toolbox
 
-
 I am curating a software engineering toolbox that display as much as information from a package.
 
 ## 1. Package structure, Dependency, UML diagrams
 
-- `[print_dep_tree.py](http://print_dep_tree.py/)`: print the files in the directory recursively
-- pydeps: print the import statements in a package
-- pyreverse: standalone tool that generates package and class diagrams, integrated in pylint.
-- symilar: dyplicate code finder that is integrated in pylint
-- plantuml: It can produce a graphical representation of UML diagrams from uml script.
+- pydeps, pyreverse
 
 Two intermediate representaions:
 
