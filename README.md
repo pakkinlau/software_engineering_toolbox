@@ -4,12 +4,28 @@ I am curating a software engineering toolbox that display as much as information
 
 ## 1. Package structure, Dependency, UML diagrams
 
-- pydeps, pyreverse
+Three kinds of diagrams:
 
-Two intermediate representaions:
+- Dependency graphs
+- UML Class diagrams
+- UML Package diagrams
+
+Three kinds of trees / intermediate representaions:
 
 1. DepGraph JSON (from pydeps)
 2. Plantmul script (from pylint)
+3. Directory tree
+
+[Demonstration](https://github.com/pakkinlau/software_engineering_toolbox/blob/main/1.%20Package%20structure%2C%20Dependency%2C%20UML%20diagrams/print_dependency_graph.ipynb): This folder contains the toolkits that users can generate various architectural diagrams for a package.
+
+Display:
+
+![1703356088161](image/README/1703356088161.png)
+
+---
+
+
+The following part is still under working: 
 
 ## 2. Static code analysis
 
